@@ -12,7 +12,6 @@
 ## 🌐 Live URL
 
 > **🔗 ([https://portfolio-phi-eight-90.vercel.app](https://portfolio-phi-eight-90.vercel.app))**  
-> *(Deploy to Vercel and replace this link)*
 
 ---
 

@@ -2,7 +2,7 @@
 
 > A premium, animated personal portfolio website built with React.js, Tailwind CSS, and Framer Motion.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brown?style=for-the-badge&logo=vercel)](https://your-live-url-here.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brown?style=for-the-badge&logo=vercel)]([https://your-live-url-here.vercel.app](https://portfolio-phi-eight-90.vercel.app))
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer-Motion-FF0055?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
@@ -12,7 +12,7 @@
 
 ## 🌐 Live URL
 
-> **🔗 [ADD YOUR LIVE URL HERE](https://your-live-url-here.vercel.app)**  
+> **🔗 ([https://portfolio-phi-eight-90.vercel.app](https://portfolio-phi-eight-90.vercel.app))**  
 > *(Deploy to Vercel and replace this link)*
 
 ---
